@@ -1,0 +1,8 @@
+/Users/sky/Projects/Shapes/Shapes/bin/Debug/netstandard2.1/Shapes.deps.json
+/Users/sky/Projects/Shapes/Shapes/bin/Debug/netstandard2.1/Shapes.dll
+/Users/sky/Projects/Shapes/Shapes/bin/Debug/netstandard2.1/Shapes.pdb
+/Users/sky/Projects/Shapes/Shapes/obj/Debug/netstandard2.1/Shapes.csprojAssemblyReference.cache
+/Users/sky/Projects/Shapes/Shapes/obj/Debug/netstandard2.1/Shapes.AssemblyInfoInputs.cache
+/Users/sky/Projects/Shapes/Shapes/obj/Debug/netstandard2.1/Shapes.AssemblyInfo.cs
+/Users/sky/Projects/Shapes/Shapes/obj/Debug/netstandard2.1/Shapes.dll
+/Users/sky/Projects/Shapes/Shapes/obj/Debug/netstandard2.1/Shapes.pdb
